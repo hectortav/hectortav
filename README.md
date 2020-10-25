@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Website](https://img.shields.io/website?label=hectortav.github.io&style=for-the-badge&url=https://hectortav.github.io)](https://hectortav.github.io)
+
+- 🌍 Athens, Greece
+- 🔭 I’m currently working on a [mobile app](https://github.com/needit-gr) using React Native and a [webiste](https://github.com/TrendDotFarm) using React
+- 🌱 I’m currently learning Typescript, FaunaDb, Nginx and Ruby
+- 🤔 I’m looking for help with [akira](https://github.com/index-zer0/akira) a neural network created using C
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hectortav)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **hectortav/hectortav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
