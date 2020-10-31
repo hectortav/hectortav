@@ -1,0 +1,17 @@
+name: commits.top
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-commits-top-rank:
+    name: Get rank in commits.top
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run a multi-line script
+        run: |
+          curl -s https://commits.top/greece.html | grep "<td><a href=\"https\:\/\/github.com\/.*\">.*<\/a><br>(.*)<\/td>" | grep -n "hectortav" | gawk '{print $1}' FS=":"
