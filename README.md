@@ -2,6 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=hectortav.github.io&style=for-the-badge&url=https://hectortav.github.io)](https://hectortav.github.io)
 
+[<img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="45" height="45"/>](https://gitlab.com/hector_tav)
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="45" height="45"/>](https://www.linkedin.com/in/hector-tavoularis-92235414b/)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45" height="45"/>](https://github.com/hectortav)
+
+
 - 🌍 Athens, Greece
 - 🔭 I’m currently working on a [mobile app](https://github.com/needit-gr) using React Native and a [webiste](https://github.com/TrendDotFarm) using React
 - 🌱 I’m currently learning Typescript, FaunaDb, Nginx and Ruby
