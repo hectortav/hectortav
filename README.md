@@ -14,22 +14,9 @@
   - a [graphics engine](https://github.com/index-zer0) using C and Vulkan
   - an [encrypted chat](https://github.com/index-zer0) using React Native and E2EE
 - 🌱 Things I want to learn in 2021
-  - Dapps (Decentralized applications)
-  - AWS
-  - Ruby
-  - GO
-  - PostgreSQL
-  - Vulkan
-  - Encryption
+  - Dapps (Decentralized applications), AWS, GO, PostgreSQL, Encryption, Ruby, Vulkan
 - ⚡ Things I learned in 2020
-  - Typescript
-  - FaunaDb
-  - Firebase
-  - React Native
-  - React Hooks
-  - Docker
-  - Trello
-  - Github actions
+  - Typescript, FaunaDb, Firebase, React Native, React Hooks, Docker, Trello, Github actions
     
 <!--
 **hectortav/hectortav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
