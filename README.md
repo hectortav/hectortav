@@ -8,13 +8,29 @@
 
 
 - 🌍 Athens, Greece
-- 🔭 I’m currently working on a [mobile app](https://github.com/needit-gr) using React Native and a [webiste](https://github.com/TrendDotFarm) using React
-- 🌱 I’m currently learning Typescript, FaunaDb, Nginx and Ruby
-- 🤔 I’m looking for help with [akira](https://github.com/index-zer0/akira) a neural network created using C
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hectortav)](https://github.com/anuraghazra/github-readme-stats)
-
-
+- 🔭 I’m currently working on
+  - a [mobile app](https://github.com/needit-gr) using React Native
+  - a [webiste](https://github.com/TrendDotFarm) using React
+  - a [graphics engine](https://github.com/index-zer0) using C and Vulkan
+  - an [encrypted chat](https://github.com/index-zer0) using React Native and E2EE
+- 🌱 Things I want to learn in 2021
+  - Dapps (Decentralized applications)
+  - AWS
+  - Ruby
+  - GO
+  - PostgreSQL
+  - Vulkan
+  - Encryption
+- ⚡ Things I learned in 2020
+  - Typescript
+  - FaunaDb
+  - Firebase
+  - React Native
+  - React Hooks
+  - Docker
+  - Trello
+  - Github actions
+    
 <!--
 **hectortav/hectortav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +44,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hectortav)](https://github.com/anuraghazra/github-readme-stats)
+- 🤔 I’m looking for help with [akira](https://github.com/index-zer0/akira) a neural network created using C
+
 -->
