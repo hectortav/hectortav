@@ -9,12 +9,12 @@
 
 - 🌍 Athens, Greece
 - 🔭 I’m currently working on
-  - a [mobile app](https://github.com/needit-gr) using React Native
-  - a [webiste](https://github.com/TrendDotFarm) using React
-  - a [graphics engine](https://github.com/index-zer0) using C and Vulkan
-  - an [encrypted chat](https://github.com/index-zer0) using React Native and E2EE
-- 🌱 Things I want to learn in 2021
-  - Dapps (Decentralized applications), ~AWS,~ PostgreSQL, Encryption, Elixir, Phoenix, ~Gatsby, ~GO, Ruby, Vulkan,~ Python
+  - a [startup](https://github.com/needit-gr)
+  - a [website](https://trend.farm/hackernews)
+- 🌱 Things I want to learn in 2022
+  - Elixir, GO, Ruby, Python, Kubernetes
+- ⚡ Things I learned in 2021
+  - PostgreSQL, Redis, Docker-compose, Meilisearch, Graphql, Chakra-ui, NextJs, Typeorm, TypeGraphql
 - ⚡ Things I learned in 2020
   - Typescript, FaunaDb, Firebase, React Native, React Hooks, Docker, Trello, Github actions
     
