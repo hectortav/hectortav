@@ -9,8 +9,7 @@
 
 - 🌍 Athens, Greece
 - 🔭 I’m currently working on
-  - a [startup](https://github.com/needit-gr)
-  - a [website](https://trend.farm/hackernews)
+  - an [analytics platform](https://github.com/index-zer0/analytics)
 - 🌱 Things I want to learn in 2022
   - Elixir, GO, Ruby, Python, Kubernetes
 - ⚡ Things I learned in 2021
