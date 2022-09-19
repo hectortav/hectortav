@@ -7,7 +7,7 @@
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45" height="45"/>](https://github.com/hectortav)
 
 
-- 🌍 Athens, Greece
+- 🌍 Athens, Greece / Brussels, Belgium
 - 🔭 I’m currently working on
   - an [analytics platform](https://github.com/index-zer0/analytics)
 - 🌱 Things I want to learn in 2022
