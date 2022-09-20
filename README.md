@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on
   - an [analytics platform](https://github.com/index-zer0/analytics)
 - 🌱 Things I want to learn in 2022
-  - Elixir, GO, Ruby, Python, Kubernetes
+  - ~Elixir~, GO, ~Ruby~, Python, ~Kubernetes~
 - ⚡ Things I learned in 2021
   - PostgreSQL, Redis, Docker-compose, Meilisearch, Graphql, Chakra-ui, NextJs, Typeorm, TypeGraphql
 - ⚡ Things I learned in 2020
