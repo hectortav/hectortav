@@ -8,7 +8,7 @@
 
 
 - 🌍 Athens, Greece / Brussels, Belgium
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he / him
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 Things I want to learn in 2022
   - ~Elixir~, GO, ~Ruby~, Python, ~Kubernetes~
