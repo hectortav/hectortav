@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=hectortav.github.io&style=for-the-badge&url=https://hectortav.github.io)](https://hectortav.github.io)
 
 [<img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="45" height="45"/>](https://gitlab.com/hector_tav)
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="45"/>](https://www.linkedin.com/in/ektoras-tavoularis/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="45" height="45"/>](https://www.linkedin.com/in/ektoras-tavoularis/)
 [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45" height="45"/>](https://github.com/hectortav)
 
 
