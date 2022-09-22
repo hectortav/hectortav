@@ -4,7 +4,7 @@
 
 [<img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="45" height="45"/>](https://gitlab.com/hector_tav)
 [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="45" height="45"/>](https://www.linkedin.com/in/ektoras-tavoularis/)
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45" height="45"/>](https://github.com/hectortav)
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45" height="45"/>](https://github.com/hectortav)
 
 
 - 🌍 Athens, Greece / Brussels, Belgium
