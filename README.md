@@ -11,7 +11,7 @@
 - 😄 Pronouns: he / him
 - 🔭 I’m currently working as a fullstack developer @ [Upstream](https://www.upstreamsystems.com/)
 - 🌱 Things I want to learn in 2023
-  - PHP, Laravel, Vue.js, GO, Rust
+  - PHP, Laravel, Vue.js, Redux, GO, Rust, Prisma, MySQL, tRPC, Next.js 13, React 18 server components
 - ⚡ Things I learned in 2021
   - ~Elixir~, GO, ~Ruby~, Python, ~Kubernetes~
 - ⚡ Things I learned in 2021
