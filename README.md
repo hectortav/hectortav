@@ -7,10 +7,12 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45" height="45"/>](https://github.com/hectortav)
 
 
-- 🌍 Athens, Greece / Brussels, Belgium
+- 🌍 Athens, Greece
 - 😄 Pronouns: he / him
-- 🔭 I’m currently working on my personal portfolio
-- 🌱 Things I want to learn in 2022
+- 🔭 I’m currently working as a fullstack developer @ [Upstream](https://www.upstreamsystems.com/)
+- 🌱 Things I want to learn in 2023
+  - PHP, Laravel, Vue.js, GO, Rust
+- ⚡ Things I learned in 2021
   - ~Elixir~, GO, ~Ruby~, Python, ~Kubernetes~
 - ⚡ Things I learned in 2021
   - PostgreSQL, Redis, Docker-compose, Meilisearch, Graphql, Chakra-ui, NextJs, Typeorm, TypeGraphql
@@ -32,6 +34,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hectortav)](https://github.com/anuraghazra/github-readme-stats)
-- 🤔 I’m looking for help with [akira](https://github.com/index-zer0/akira) a neural network created using C
-
 -->
