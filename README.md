@@ -9,7 +9,7 @@
 
 - 🌍 Athens, Greece
 - 😄 Pronouns: he / him
-- 🔭 I’m currently working as a fullstack developer @ [Upstream](https://www.upstreamsystems.com/)
+- 🔭 I’m currently working as a fullstack developer @ [Flexcar](https://flexcar.gr/)
 - 🌱 Things I want to learn in 2023
   - PHP, Laravel, Vue.js, Redux, GO, Rust, Prisma, MySQL, tRPC, Next.js 13, React 18 server components
 - ⚡ Things I learned in 2022
